@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently more about Data Engineering and Data Science while working on several other projects.
+I am currently learning more about Data Engineering and Data Science while working on several other side projects to enhance my learnings and improve my ability to deliver production ready solutions.
 
 
 ## 🌐 Socials:
