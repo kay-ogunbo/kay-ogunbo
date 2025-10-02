@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently learning more about Data Engineering and Data Science while working on several other side projects to enhance my learnings and improve my ability to deliver production ready solutions.
+I’m a Data Engineer with 7+ years of experience designing and scaling cloud-native data platforms.  
+My expertise spans Azure, Databricks (Medallion Architecture), PySpark, SQL, and modern data stack tools, with a track record of building production-ready pipelines that process 100M+ records.  
+
+I enjoy working on side projects to explore new technologies in Data Engineering and Data Science while applying what I learn to deliver automated, reliable, and scalable solutions.  
+I’m passionate about turning raw data into business value, and I’m always looking for opportunities to collaborate and innovate in the data space.  
 
 
 ## 🌐 Socials:
